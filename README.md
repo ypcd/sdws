@@ -1,2 +1,2 @@
-# swds
-Simple web distributed system
+# sdws
+Simple distributed web system
